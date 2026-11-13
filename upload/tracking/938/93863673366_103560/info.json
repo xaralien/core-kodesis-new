@@ -1,0 +1,27 @@
+{
+    "uid": "103560",
+    "smu": "938-63673366",
+    "riwayat": [
+        {
+            "status": "Sudah Manifest",
+            "kode": "manifest",
+            "waktu": "20260807114545",
+            "petugas": "Dimas Ramadhan Agustian",
+            "file": "manifest_20260807114545.jpg"
+        },
+        {
+            "status": "Sudah Loading",
+            "kode": "loading",
+            "waktu": "20260807115552",
+            "petugas": "Dimas Ramadhan Agustian",
+            "file": "loading_20260807115552.jpg"
+        },
+        {
+            "status": "Sudah Terbang",
+            "kode": "fly",
+            "waktu": "20260807115600",
+            "petugas": "Dimas Ramadhan Agustian",
+            "file": "fly_20260807115600.jpg"
+        }
+    ]
+}

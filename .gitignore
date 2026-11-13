@@ -1,0 +1,50 @@
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+composer.lock
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
+application/config/database aa.php
+resources/labels/085157563305/1.png
+resources/labels/085157563305/2.png
+resources/labels/085157563305/3.png
+resources/labels/085157563305/4.png
+resources/labels/085157563305/5.png
+application/config/database a.php
+application/config/database.php
+application/libraries/Api_Whatsapp.php
+application/libraries/Api_Whatsapp.php
+application/libraries/Api_Whatsapp Old.php
+application/controllers/Incominghlp copy.php
+application/controllers/Outgoinghlp copy.php
+application/views/create_memo copy.php
+application/views/daftar_invoice 30-7-2026.php
+application/views/daftar_kemasan_smu copy.php
+application/views/in_daftar_invoice copy.php
+application/views/login_view copy.php
+application/views/print_invoice_incoming aa.php
